@@ -1,6 +1,3 @@
-# BMI-Calculator
-A simple interactive web project built with HTML, CSS, and JavaScript.
-
 # BMI Calculator 
 
 A simple BMI (Body Mass Index) calculator built using HTML, CSS,
